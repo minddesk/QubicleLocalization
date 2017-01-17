@@ -6,7 +6,9 @@ You like to help translating Qubicle into other languages? Awesome, you rock, I 
 THANK YOU!
 Tim
 
-**Windows is required for the following workflow. If you are on OS X, I am sorry but you can't help!**
+PLEASE NOTE:
+* **Windows is required for the following workflow.**
+* **Only languages that can be displayed with ISO-8859-1 are supported**. E.g. Chinese and Russian are currently not supported. For a list of supported languages visit https://en.wikipedia.org/wiki/ISO/IEC_8859-1
 
 ## How To Create A New Translation
 
@@ -52,6 +54,8 @@ The only exception to this rule: all messages found in the section **[MESSAGES]*
 There are no real rules for the help.ini files. As a best practice I tried to not address the user directly. So you won't find a *you* or *your* in the files. 
 
 ## Rewards
+
+Rewards will be sent out when the translation is released.
 
 #### Submit a new translation of both ui.ini and help.ini:
 
