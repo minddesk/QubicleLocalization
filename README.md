@@ -7,8 +7,9 @@ THANK YOU!
 Tim
 
 PLEASE NOTE:
+* Of course you can do this with the free Demo found on Steam: http://store.steampowered.com/app/454550
 * **Windows is required for the following workflow.**
-* **Only languages that can be displayed with ISO-8859-1 are supported**. E.g. Chinese and Russian are currently not supported. For a list of supported languages visit https://en.wikipedia.org/wiki/ISO/IEC_8859-1
+* **Only languages that can be displayed with ISO-8859-1 are currently supported**. E.g. Chinese and Russian are currently not supported. For a list of supported languages visit https://en.wikipedia.org/wiki/ISO/IEC_8859-1 There's still some magic required to support other alphabets, but I will try to find a solution. If you like to provide an unsupported language, that would help me to find that solution. Thanks!
 
 ## How To Create A New Translation
 
